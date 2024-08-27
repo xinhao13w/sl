@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/37845.html</loc>
+    <loc>https://www.0o0.shop/posts/37845.html</loc>
     
     <lastmod>2024-08-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/577.html</loc>
+    <loc>https://www.0o0.shop/posts/577.html</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/58568.html</loc>
+    <loc>https://www.0o0.shop/posts/58568.html</loc>
     
     <lastmod>2024-08-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/essay/index.html</loc>
+    <loc>https://www.0o0.shop/essay/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/dailyPhoto/index.html</loc>
+    <loc>https://www.0o0.shop/dailyPhoto/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/album/index.html</loc>
+    <loc>https://www.0o0.shop/album/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/json/music.json</loc>
+    <loc>https://www.0o0.shop/json/music.json</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>https://www.0o0.shop/music/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://www.0o0.shop/about/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://www.0o0.shop/categories/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://www.0o0.shop/link/index.html</loc>
     
     <lastmod>2024-08-21</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://www.0o0.shop/tags/index.html</loc>
     
     <lastmod>2024-08-20</lastmod>
     
@@ -111,7 +111,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://www.0o0.shop/</loc>
     <lastmod>2024-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -119,21 +119,21 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B-%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.0o0.shop/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B-%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%B8%B8%E6%88%8F-%E5%AE%98%E6%96%B9%E5%A3%B0%E6%98%8E/</loc>
+    <loc>https://www.0o0.shop/tags/%E6%B8%B8%E6%88%8F-%E5%AE%98%E6%96%B9%E5%A3%B0%E6%98%8E/</loc>
     <lastmod>2024-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3-%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://www.0o0.shop/tags/%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3-%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2024-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -142,14 +142,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://www.0o0.shop/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://www.0o0.shop/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2024-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
